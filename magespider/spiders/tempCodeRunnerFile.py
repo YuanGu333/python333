@@ -1,0 +1,1 @@
+from magespider.items import MeinvItem
